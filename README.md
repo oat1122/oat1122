@@ -53,7 +53,7 @@ I am a recent graduate currently looking for a job. I have a foundational unders
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oat1122&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo:
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=oat1122&limit=5&theme=dark&combine_all_yearly_contributions=true" />
