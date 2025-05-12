@@ -48,7 +48,7 @@ I am a recent graduate currently looking for a job. I have a foundational unders
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oat1122&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=oat1122&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/> -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=oat1122&theme=dark&hide_border=false" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oat1122&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
