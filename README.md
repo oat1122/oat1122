@@ -9,10 +9,11 @@ I am a recent graduate currently looking for a job. I have a foundational unders
 * 🖥️ See my portfolio at [Portfolio](http://oat1122.github.io/Portfolio/)
 * ✉️ You can contact me at [nutthawut1.pho@gmail.com](mailto:nutthawut1.pho@gmail.com)
 * 🧠 I'm learning Node.js, Express, React, and Next.js
-
+<div align="center">
+    
 ### Skills
 
-<p align="left">
+<p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -33,7 +34,7 @@ I am a recent graduate currently looking for a job. I have a foundational unders
 
 ### Socials
 
-<p align="left">
+<p >
     <a href="https://www.github.com/oat1122" target="_blank" rel="noreferrer">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
@@ -42,10 +43,12 @@ I am a recent graduate currently looking for a job. I have a foundational unders
         </picture>
     </a>
 </p>
+</div>
 
-
-
-# 📊 GitHub Stats:
+<div align="center">
+    
+# 📊 GitHub Stats: 
+</div>
 
 <p align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=oat1122&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/> -->
@@ -53,7 +56,10 @@ I am a recent graduate currently looking for a job. I have a foundational unders
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oat1122&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
+<div align="center">
+    
 # 🔝 Top Contributed Repo:
+</div>
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=oat1122&limit=5&theme=dark&combine_all_yearly_contributions=true" />
